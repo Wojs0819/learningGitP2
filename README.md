@@ -1,4 +1,4 @@
 # LearningGit
 
 This is a read me file
-Welcome to SCC
+Welcome to SCC1
